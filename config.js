@@ -1,0 +1,23 @@
+export const nameBand = 'PAT BENATAR';
+export let nameSongs = [
+	"HEARTBREAKER", /*1*/
+	"LOVE IS A BATTLEFIELD", /*2*/
+	"WE BELONG", /*3*/
+	"SHADOWS OF THE NIGHT", /*4*/
+	"INVINCIBLE", /*5*/
+	"PROMISES IN THE DARK", /*6*/
+	"FIRE AND ICE", /*7*/
+	"PRECIOUS TIME", /*8*/
+	"EVIL GENIUS", /*9*/
+	"IN THE HEAT OF THE NIGHT", /*10*/
+	"HELL IS FOR CHILDREN", /*11*/
+	"WUTHERING HEIGHTS", /*12*/
+	"TREAT ME RIGHT", /*13*/
+	"YOU BETTER RUN", /*14*/
+	"I'M GONNA FOLLOW YOU", /*15*/
+	"TOO LONG A SOLDIER", /*16*/
+	"ALL FIRED UP", /*17*/
+	"HARD TO BELIEVE", /*18*/
+	"SO SINCERE", /*19*/
+	"NO YOU DON’T", /*20*/
+]
